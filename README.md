@@ -12,9 +12,9 @@ Javascript Fetch() 활용
 React Hooks
 
 
-  useState, useEffect 활용  
-  react-router-dom 활용  
-  components 구조화 공부  
+    useState, useEffect 활용  
+    react-router-dom 활용  
+    components 구조화 공부  
   
 
 CSS Module화 사용 공부
